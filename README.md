@@ -1,7 +1,6 @@
 # Words App
 
-This folder contains the source code for the Words app codelab.
-
+Implementation of Codelab completed
 
 # Introduction
 Words app allows you to select a letter and use Intents to navigate to an Activity that
@@ -18,6 +17,12 @@ The app demonstrates the use of Intents in two ways:
 * Experience with Kotlin syntax.
 * Able to create an Activity.
 * Able to create a RecyclerView and supply it with data.
+
+# Functionality Implemented
+* Explicit intent to move within activities
+* passing Extra using intents
+* Implicit intent to search on google for the meaning of the word
+* implementation of Menu Layout to switch from Linear Layout to Grid layout and vice versa.
 
 # Getting Started
 1. Install Android Studio, if you don't already have it.
